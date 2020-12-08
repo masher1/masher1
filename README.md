@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masher1&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masher1&layout=compact&theme=nord&exclude_repo=SocialMediaMining)](https://github.com/anuraghazra/github-readme-stats)
 ![Malkiel's github stats](https://github-readme-stats.vercel.app/api?username=masher1&count_private=true&show_icons=true&theme=nord&include_all_commits=true)

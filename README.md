@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages I have the most code on GitHub.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masher1&layout=compact&theme=nord&langs_count=7&exclude_repo=SocialMediaMining,New-Perfect-Word-Generator)](https://github.com/anuraghazra/github-readme-stats)
 ![Malkiel's github stats](https://github-readme-stats.vercel.app/api?username=masher1&count_private=true&show_icons=true&theme=nord&include_all_commits=true)

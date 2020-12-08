@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 How to reach me: masher@syr.edu
+- ⚡ Fun fact: I have a website!
 <!--
 **masher1/masher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
